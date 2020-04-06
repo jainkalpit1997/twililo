@@ -32,7 +32,7 @@
     "configurationArguments": {
       "applicationExtensionKey": "8854cddd-0fe9-43ee-99b2-43075e108372",
        "save": {
-           "url": "https://twiliokalpit.herokuapp.com/save",
+           "url": "https://twiliokalpit.herokuapp.com/journeybuilder/save",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -40,7 +40,7 @@
             "timeout": 2000
        },
        "publish": {
-           "url": "https://twiliokalpit.herokuapp.com/publish",
+           "url": "https://twiliokalpit.herokuapp.com/journeybuilder/publish",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -48,7 +48,7 @@
             "timeout": 2000
        },
        "validate": {
-           "url": "https://twiliokalpit.herokuapp.com/validate",
+           "url": "https://twiliokalpit.herokuapp.com/journeybuilder/validate",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -56,7 +56,7 @@
             "timeout": 2000
        },
        "stop": {
-           "url": "https://twiliokalpit.herokuapp.com/stop",
+           "url": "https://twiliokalpit.herokuapp.com/journeybuilder/stop",
             "verb": "POST",
             "body": "",
             "format": "json",
