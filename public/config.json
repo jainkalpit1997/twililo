@@ -21,7 +21,7 @@
                 }               
             ],
             "outArguments": [],
-            "url": "https://twiliokalpit.herokuapp.com/journeybuilder/execute",
+            "url": "https://enb5jm8hode7m.x.pipedream.net/journeybuilder/execute",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -32,7 +32,7 @@
     "configurationArguments": {
       "applicationExtensionKey": "8854cddd-0fe9-43ee-99b2-43075e108372",
        "save": {
-           "url": "https://twiliokalpit.herokuapp.com/journeybuilder/save",
+           "url": "https://enb5jm8hode7m.x.pipedream.net/journeybuilder/save",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -40,7 +40,7 @@
             "timeout": 2000
        },
        "publish": {
-           "url": "https://twiliokalpit.herokuapp.com/journeybuilder/publish",
+           "url": "https://enb5jm8hode7m.x.pipedream.net/journeybuilder/publish",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -48,7 +48,7 @@
             "timeout": 2000
        },
        "validate": {
-           "url": "https://twiliokalpit.herokuapp.com/journeybuilder/validate",
+           "url": "https://enb5jm8hode7m.x.pipedream.net/journeybuilder/validate",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -56,7 +56,7 @@
             "timeout": 2000
        },
        "stop": {
-           "url": "https://twiliokalpit.herokuapp.com/journeybuilder/stop",
+           "url": "https://enb5jm8hode7m.x.pipedream.net/journeybuilder/stop",
             "verb": "POST",
             "body": "",
             "format": "json",
